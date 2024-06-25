@@ -50,11 +50,11 @@ python3 -m pip install --upgrade pip #Actualizamos el pip
   `pip` es una herramienta de línea de comandos en Python que se utiliza para instalar y gestionar paquetes de software escritos en Python. El nombre `pip` es un acrónimo recursivo que significa `"pip installs packages"` (pip instala paquetes).
 
 ### Funciones principales de pip:
-Instalar paquetes: Puedes instalar cualquier paquete disponible en el Python Package Index (PyPI) usando un comando como pip install nombre_paquete.
-Actualizar paquetes: Permite actualizar un paquete a su versión más reciente con pip install --upgrade nombre_paquete.
-Desinstalar paquetes: Puedes desinstalar paquetes con pip uninstall nombre_paquete.
-Listar paquetes instalados: Muestra todos los paquetes instalados en el entorno con pip list.
-Mostrar información de un paquete: Puedes obtener detalles sobre un paquete específico usando pip show nombre_paquete.
+Instalar paquetes: Puedes instalar cualquier paquete disponible en el Python Package Index (PyPI) usando un comando como `pip install nombre_paquete`.
+Actualizar paquetes: Permite actualizar un paquete a su versión más reciente con `pip install --upgrade nombre_paquete`.
+Desinstalar paquetes: Puedes desinstalar paquetes con `pip uninstall nombre_paquete`.
+Listar paquetes instalados: Muestra todos los paquetes instalados en el entorno con `pip list`.
+Mostrar información de un paquete: Puedes obtener detalles sobre un paquete específico usando `pip show nombre_paquete`.
 
 ### ¿Por qué actualizamos pip?
 Actualizar pip es importante por varias razones:
